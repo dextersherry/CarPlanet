@@ -56,4 +56,3 @@ export default async function Home({ searchParams }: BikeProps) {
     </main>
   );
 }
-
